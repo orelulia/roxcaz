@@ -1,9 +1,9 @@
 {
-    "EnbFlag": true,
+    "EnbFlag": false,
     "Langs": ["Turkish"],
     "Times": ["Istanbul", "Turkey"],
     "Linkinp": 
     [ 
-          { "Lang":"Turkish", "Links": ["https://csnpin.com/L8GzgmlP/"] }
+          { "Lang":"Turkish", "Links": [""] }
     ]
  }
